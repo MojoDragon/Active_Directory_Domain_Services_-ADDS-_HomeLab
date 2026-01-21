@@ -91,21 +91,30 @@ If you accidentally select the "Upgrade", it will not allow the upgrade because 
 
 <img width="1920" height="1002" alt="server-desktop" src="https://github.com/user-attachments/assets/7be4d7e0-ffef-432f-864f-4df928321bef" />
 
-## PART 2 : Network & Domain Setup
+## PART 2 1/3: Network & Domain Setup
 
 Domain Controllers must not use DHCP. An active directory needs a fixed IP address because it depends on DNS. Stability is important.
 
 ➡️ Open Control Panel<br>
-    Network and Internet → Network Connections<br>
-    Right-click Ethernet → Properties<br>
-    Select IPv4 → Properties<br>
+   &emsp;&emsp; Network and Internet → Network Connections<br>
+   &emsp;&emsp;Right-click Ethernet → Properties<br>
+   &emsp;&emsp;Select IPv4 → Properties<br>
 
 Configure:<br>
-    IP: 192.168.56.10<br>
-    Subnet: 255.255.255.0<br>
-    DNS: 127.0.0.1
+    &emsp;&emsp;IP: 192.168.56.10<br>
+    &emsp;&emsp;Subnet: 255.255.255.0<br>
+    &emsp;&emsp;DNS: 127.0.0.1
 
 <img width="1929" height="1012" alt="static-ip-config" src="https://github.com/user-attachments/assets/7c749f8f-1bd6-4248-9477-91a39ddbb2bb" />
+
+## Part 2 2/3: Rename Servers
+Open Server Manager<br>
+&emsp;&emsp;Local Server → Computer Name<br>
+&emsp;&emsp;Rename to: DC01<br>
+&emsp;&emsp;Restart
+
+<img width="1917" height="1001" alt="computer-name" src="https://github.com/user-attachments/assets/0eaebfac-1904-4167-8542-4f3e4eed9994" />
+
 
 ## What I Learned
 - How Active Directory manages users and access
