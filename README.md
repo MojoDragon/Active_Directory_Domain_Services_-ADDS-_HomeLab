@@ -56,15 +56,15 @@ Download: VirtualBox Platform Package (Windows hosts), VirtualBox Extension Pack
 <img width="480" height="378" alt="virtualbox-space-allocation" src="https://github.com/user-attachments/assets/385dd458-74f0-4956-be06-f4b2a0e8654c" />&emsp; <img width="480" height="378" alt="virtualbox-main-window" src="https://github.com/user-attachments/assets/5ce667f4-ed44-4839-9494-affda3de3b77" />
 
 
-## PART 1/3: Create Domain Controller VM (DC01)
+## PART 1 1/3: Create Domain Controller VM (DC01)
 
 <img width="2000" height="1485" alt="Untitled design" src="https://github.com/user-attachments/assets/ff5be8c6-2da0-4c25-8103-ba075a5bc1fe" />
 
-## PART 2/3: Hardware Settings 
+## PART 1 2/3: Hardware Settings 
 
 <img width="956" height="736" alt="vm-hardware-settings" src="https://github.com/user-attachments/assets/368188ea-0e9d-4864-a65c-bb2761994882" />
 
-## Part 3/3: Install Windows Server <br>
+## Part 1 3/3: Install Windows Server <br>
 If a failure to boot error message occurs, don't worry. Please ensure that you have your Windows Server ISO file handy. Select the file, then Mount and Reboot.
 <img width="1863" height="1012" alt="mount-reboot-iso-file" src="https://github.com/user-attachments/assets/f4351141-bb24-4c2b-b30a-75c2f0d06c79" />
 
@@ -87,7 +87,25 @@ If you accidentally select the "Upgrade", it will not allow the upgrade because 
 
 <img width="1920" height="1080" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/24ced819-eb4b-4507-93df-9f6c0c6dde7e" />
 
+## Login and Congrats! 
 
+<img width="1920" height="1002" alt="server-desktop" src="https://github.com/user-attachments/assets/7be4d7e0-ffef-432f-864f-4df928321bef" />
+
+## PART 2 : Network & Domain Setup
+
+Domain Controllers must not use DHCP. An active directory needs a fixed IP address because it depends on DNS. Stability is important.
+
+➡️ Open Control Panel<br>
+    Network and Internet → Network Connections<br>
+    Right-click Ethernet → Properties<br>
+    Select IPv4 → Properties<br>
+
+Configure:<br>
+    IP: 192.168.56.10<br>
+    Subnet: 255.255.255.0<br>
+    DNS: 127.0.0.1
+
+<img width="1929" height="1012" alt="static-ip-config" src="https://github.com/user-attachments/assets/7c749f8f-1bd6-4248-9477-91a39ddbb2bb" />
 
 ## What I Learned
 - How Active Directory manages users and access
