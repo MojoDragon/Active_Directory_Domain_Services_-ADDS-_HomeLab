@@ -3,12 +3,13 @@
 **Table of Contents**
 
 *   [Overview](#Overview)
-*   [Getting Started](#getting-started)
-    *   [Prerequisites](#prerequisites)
-    *   [Installation](#installation)
-*   [Usage](#usage)
-*   [Contributing](#contributing)
-
+*   [Tools & Technologies](#Tools & Technologies)
+    *   [Objectives](#Objectives)
+    *   [Steps Performed](#Steps Performed)
+*   [Troubleshooting](#Troubleshooting)
+*   [Screenshots](#Screenshots)
+*   [What I Learned](#What I Learned)
+  
 ## Overview
 This project simulates a small enterprise Active Directory environment, demonstrating how users authenticate against a Domain Controller and how Group Policy Objects (GPOs) are centrally managed and enforced on domain-joined client machines.
 
@@ -30,7 +31,6 @@ This is an entry-level Active Directory home lab built using Windows Server 2022
 - Apply Group Policy Objects (GPOs)
 
 ## Steps Performed
-
 1. Virtualization Setup
 2. Promoted server to Domain Controller
 3. Created Organizational Units and users
