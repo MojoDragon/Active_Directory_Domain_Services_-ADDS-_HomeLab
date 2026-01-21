@@ -80,6 +80,13 @@ Since this exercise guide is generally for those getting their feet wet. I would
 
 <img width="1863" height="885" alt="windows-server-install" src="https://github.com/user-attachments/assets/b978b314-77a2-4137-88c5-3357b8b66b26" />
 
+## No Operating System = No Upgrade
+If you accidentally select the "Upgrade", it will not allow the upgrade because there is no operating system (OS). Press the back arrow and do the following:
+
+➡️ Select Custom install, then hit next on the following screen. Remember, persistence is key! 
+
+<img width="1920" height="1080" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/24ced819-eb4b-4507-93df-9f6c0c6dde7e" />
+
 
 
 ## What I Learned
