@@ -60,10 +60,25 @@ Download: VirtualBox Platform Package (Windows hosts), VirtualBox Extension Pack
 
 <img width="2000" height="1485" alt="Untitled design" src="https://github.com/user-attachments/assets/ff5be8c6-2da0-4c25-8103-ba075a5bc1fe" />
 
-## PART 2/3: Hardware Settings
+## PART 2/3: Hardware Settings 
 
 <img width="956" height="736" alt="vm-hardware-settings" src="https://github.com/user-attachments/assets/368188ea-0e9d-4864-a65c-bb2761994882" />
 
+## Part 3/3: Install Windows Server <br>
+If a failure to boot error message occurs, don't worry. Please ensure that you have your Windows Server ISO file handy. Select the file, then Mount and Reboot.
+<img width="1863" height="1012" alt="mount-reboot-iso-file" src="https://github.com/user-attachments/assets/f4351141-bb24-4c2b-b30a-75c2f0d06c79" />
+
+## Select the Operating System you want to install
+Since this exercise guide is generally for those getting their feet wet. I would recommend the following for these reasons: <br>
+
+➡️ Windows Server 2022 Standard Evaluation (Desktop Experience)
+
+✔ Has a full graphical interface
+✔ Best for Active Directory learning
+✔ Easiest to follow tutorials 
+
+
+<img width="1863" height="885" alt="windows-server-install" src="https://github.com/user-attachments/assets/b978b314-77a2-4137-88c5-3357b8b66b26" />
 
 
 
