@@ -1,6 +1,11 @@
 # Active_Directory_Domain_Services_-ADDS-_HomeLab
 ## Overview
-Entry-level Active Directory home lab using Windows Server 2022 for both Domain Controller and Client Machine.( *Note: Windows Server 2022 ISO was used for both the Domain Controller and client machine due to available resources. The client was configured as a domain member to validate authentication, DNS, and Group Policy behavior.) Practiced user account creation, password management, domain joining, DNS configuration, and basic Group Policy to understand how IT support teams manage users and troubleshoot access issues.
+This project simulates a small enterprise Active Directory environment, demonstrating how users authenticate against a Domain Controller and how Group Policy Objects (GPOs) are centrally managed and enforced on domain-joined client machines.
+
+The lab mirrors real-world IT infrastructure practices commonly used in corporate environments and highlights core identity and access management concepts.
+
+This is an entry-level Active Directory home lab built using Windows Server 2022. The Windows Server 2022 ISO was used for both the Domain Controller and the client machine due to available resources. The client system was configured as a domain member to validate authentication, DNS functionality, and Group Policy enforcement. A Windows 10 ISO is recommended for those following along 
+
 ## Tools & Technologies
 - Windows Server 2022 ISO [link](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)       
 - Oracle VirtualBox
@@ -16,7 +21,7 @@ Entry-level Active Directory home lab using Windows Server 2022 for both Domain 
 
 ## Steps Performed
 
-1. Installed Windows Server and configured static IP
+1. Virtualization Setup
 2. Promoted server to Domain Controller
 3. Created Organizational Units and users
 4. Reset user passwords and unlocked accounts
