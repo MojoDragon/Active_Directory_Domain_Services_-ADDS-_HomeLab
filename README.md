@@ -52,8 +52,8 @@ Download: VirtualBox Platform Package (Windows hosts), VirtualBox Extension Pack
 
 ## Remember to allocate enough space :) &emsp; &emsp; &emsp; Virtual Box Main Window
 
-<img width="480" height="378" alt="virtualbox-space-allocation" src="https://github.com/user-attachments/assets/385dd458-74f0-4956-be06-f4b2a0e8654c" />
-<img width="958" height="728" alt="virtualbox-main-window" src="https://github.com/user-attachments/assets/5ce667f4-ed44-4839-9494-affda3de3b77" />
+<img width="480" height="378" alt="virtualbox-space-allocation" src="https://github.com/user-attachments/assets/385dd458-74f0-4956-be06-f4b2a0e8654c" /> <img width="958" height="728" alt="virtualbox-main-window" src="https://github.com/user-attachments/assets/5ce667f4-ed44-4839-9494-affda3de3b77" />
+
 
 ## PART 1: Create Domain Controller VM (DC01)
 
