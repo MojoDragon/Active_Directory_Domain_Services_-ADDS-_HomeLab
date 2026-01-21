@@ -43,6 +43,7 @@ This is an entry-level Active Directory home lab built using Windows Server 2022
 - Fixed login errors by verifying group policies
 
 ## Screenshots
+<img width="1186" height="728" alt="virtualbox-download" src="https://github.com/user-attachments/assets/ca8bf633-dc8b-41ee-ad20-430f32d1cbb6" />
 
 
 ## What I Learned
