@@ -3,12 +3,12 @@
 **Table of Contents**
 
 *   [Overview](#Overview)
-*   [Tools-&-Technologies](#Tools-&-Technologies)
+*   [Tools & Technologies](#Tools-&-Technologies)
 *   [Objectives](#Objectives)
-*   [Steps-Performed](#Steps-Performed)
+*   [Steps Performed](#Steps-Performed)
 *   [Troubleshooting](#Troubleshooting)
 *   [Screenshots](#Screenshots)
-*   [What-I-Learned](#What-I-Learned)
+*   [What I Learned](#What-I-Learned)
   
 ## Overview
 This project simulates a small enterprise Active Directory environment, demonstrating how users authenticate against a Domain Controller and how Group Policy Objects (GPOs) are centrally managed and enforced on domain-joined client machines.
