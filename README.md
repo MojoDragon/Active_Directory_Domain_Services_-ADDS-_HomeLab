@@ -1,4 +1,3 @@
-# Active_Directory_Domain_Services_-ADDS-_HomeLab
 
 <img width="1600" height="896" alt="Active Directory Domain Services" src="https://github.com/user-attachments/assets/6679af25-0359-42f1-9517-92f6958c3035" />
 
