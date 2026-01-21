@@ -44,8 +44,8 @@ This is an entry-level Active Directory home lab built using Windows Server 2022
 
 ## Screenshots
 
-## Step 0.1: 
-Download VirtualBox. Go to the Oracle VirtualBox website
+## PART 0: Install VirtualBox 
+Download VirtualBox. Go to the Oracle VirtualBox website <br>
 Download: VirtualBox Platform Package (Windows hosts), VirtualBox Extension Pack (same version)
 
 <img width="1186" height="728" alt="virtualbox-download" src="https://github.com/user-attachments/assets/ca8bf633-dc8b-41ee-ad20-430f32d1cbb6" />
