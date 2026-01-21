@@ -54,6 +54,12 @@ Download: VirtualBox Platform Package (Windows hosts), VirtualBox Extension Pack
 
 <img width="480" height="378" alt="virtualbox-space-allocation" src="https://github.com/user-attachments/assets/7255c339-be80-41f2-8cc4-362c0aa60f89" /> <img width="480" height="378" alt="virtualbox-main-window" src="https://github.com/user-attachments/assets/73274ac5-14a7-4d5a-9afc-13cba08c4cce" />
 
+## PART 1: Create Domain Controller VM (DC01)
+
+<img width="2000" height="1485" alt="Untitled design" src="https://github.com/user-attachments/assets/ff5be8c6-2da0-4c25-8103-ba075a5bc1fe" />
+
+
+
 ## What I Learned
 - How Active Directory manages users and access
 - Importance of DNS in domain environments
