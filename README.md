@@ -4,8 +4,8 @@
 
 *   [Overview](#Overview)
 *   [Tools-&-Technologies](#Tools-&-Technologies)
-    *   [Objectives](#Objectives)
-    *   [Steps-Performed](#Steps-Performed)
+*   [Objectives](#Objectives)
+*   [Steps-Performed](#Steps-Performed)
 *   [Troubleshooting](#Troubleshooting)
 *   [Screenshots](#Screenshots)
 *   [What-I-Learned](#What-I-Learned)
