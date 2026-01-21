@@ -1,4 +1,14 @@
 # Active_Directory_Domain_Services_-ADDS-_HomeLab
+
+**Table of Contents**
+
+*   [Overview](#Overview)
+*   [Getting Started](#getting-started)
+    *   [Prerequisites](#prerequisites)
+    *   [Installation](#installation)
+*   [Usage](#usage)
+*   [Contributing](#contributing)
+
 ## Overview
 This project simulates a small enterprise Active Directory environment, demonstrating how users authenticate against a Domain Controller and how Group Policy Objects (GPOs) are centrally managed and enforced on domain-joined client machines.
 
