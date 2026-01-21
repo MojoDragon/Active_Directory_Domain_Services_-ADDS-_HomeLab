@@ -50,6 +50,10 @@ Download: VirtualBox Platform Package (Windows hosts), VirtualBox Extension Pack
 
 <img width="1186" height="728" alt="virtualbox-download" src="https://github.com/user-attachments/assets/ca8bf633-dc8b-41ee-ad20-430f32d1cbb6" />
 
+## Remember to allocate enough space :)
+
+<img width="480" height="378" alt="virtualbox-space-allocation" src="https://github.com/user-attachments/assets/7255c339-be80-41f2-8cc4-362c0aa60f89" />
+
 
 ## What I Learned
 - How Active Directory manages users and access
