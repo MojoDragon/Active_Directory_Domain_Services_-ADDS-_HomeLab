@@ -56,9 +56,13 @@ Download: VirtualBox Platform Package (Windows hosts), VirtualBox Extension Pack
 <img width="480" height="378" alt="virtualbox-space-allocation" src="https://github.com/user-attachments/assets/385dd458-74f0-4956-be06-f4b2a0e8654c" />&emsp; <img width="480" height="378" alt="virtualbox-main-window" src="https://github.com/user-attachments/assets/5ce667f4-ed44-4839-9494-affda3de3b77" />
 
 
-## PART 1: Create Domain Controller VM (DC01)
+## PART 1/3: Create Domain Controller VM (DC01)
 
 <img width="2000" height="1485" alt="Untitled design" src="https://github.com/user-attachments/assets/ff5be8c6-2da0-4c25-8103-ba075a5bc1fe" />
+
+## PART 2/3: Hardware Settings
+
+<img width="956" height="736" alt="vm-hardware-settings" src="https://github.com/user-attachments/assets/368188ea-0e9d-4864-a65c-bb2761994882" />
 
 
 
