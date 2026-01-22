@@ -1,7 +1,7 @@
 
 <img width="1600" height="896" alt="Active Directory Domain Services" src="https://github.com/user-attachments/assets/6679af25-0359-42f1-9517-92f6958c3035" />
 
-**Table of Contents**
+**<a id ="top"></a>Table of Contents**
 
 [Overview](#overview-section) | [Environment Overview](#environment-overview-section) | [Project Objectives](#project-objectives-section) | [Steps Performed](#steps-performed) | [Screenshots](#sceenshots-section)
 
