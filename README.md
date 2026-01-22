@@ -123,6 +123,12 @@ Open Server Manager<br>
 
 <img width="1908" height="969" alt="role-based-or-remote-install" src="https://github.com/user-attachments/assets/af59caf1-b566-4af9-ab84-83610cd83b3d" />
 
+## Select Active Directory Domain Services, than go to installation
+
+<img width="1906" height="1025" alt="select-ADDS" src="https://github.com/user-attachments/assets/2a84e1bf-ef5b-4623-86f9-972655d8b487" />
+
+<img width="1909" height="1027" alt="ADDS-install" src="https://github.com/user-attachments/assets/e450e0b9-afa7-44f8-9300-889961859d9d" />
+
 
 ## What I Learned
 - How Active Directory manages users and access
