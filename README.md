@@ -169,6 +169,13 @@ Set:<br>
 <img width="1914" height="1017" alt="testuser-password" src="https://github.com/user-attachments/assets/b827adb3-1858-44d3-9b0b-36c3f46fe7b0" />
 <img width="1906" height="1035" alt="tester-finished" src="https://github.com/user-attachments/assets/aace4d21-9fdf-48a5-b608-89ef70be0630" />
 
+## Exercise: Password Reset (Help Desk Task)
+Right-click user<br>
+&emsp;&emsp;Reset Password <br>
+&emsp;&emsp;Unlock account if needed <br>
+
+<img width="1914" height="1015" alt="reset-user-psswd1" src="https://github.com/user-attachments/assets/2533416d-a0bf-448f-a3bd-be55af1479a9" />
+
 
 
 
