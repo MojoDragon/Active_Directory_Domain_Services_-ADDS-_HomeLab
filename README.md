@@ -207,7 +207,7 @@ Enable:<br>
 ## Part 4 3/3: Link GPO to OU
 Link GPO to IT_Users OU
 <img width="1920" height="1017" alt="link-ou-to-gpo1" src="https://github.com/user-attachments/assets/0ef6f606-6c21-4da4-bc8f-a624db833466" />
-<img width="3840" height="1080" alt="link-ou-to-gpo2" src="https://github.com/user-attachments/assets/5eab635e-c1cd-4cfe-b0d9-7a53321378f1" />
+
 
 ## Part 5 1/2: Client Machine (Proof It Works)
 Create new VM:<br>
@@ -219,6 +219,7 @@ Join domain:<br>
 &emsp;&emsp;homelab.local<br>
 Restart
 <img width="1929" height="1028" alt="create-client01" src="https://github.com/user-attachments/assets/e7f11a7e-376f-4559-95d2-031415526328" />
+<img width="1923" height="1046" alt="link-ou-to-gpo2" src="https://github.com/user-attachments/assets/c0cc7246-a232-4933-b22b-7ea378d51d0d" />
 
 
 
