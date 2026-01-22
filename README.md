@@ -141,6 +141,14 @@ Configure:<br>
 
 <img width="1923" height="1051" alt="root-domain-name" src="https://github.com/user-attachments/assets/31739b3b-626d-4675-aa93-46965af33f6e" />
 
+## Alerts:
+
+<img width="1911" height="1017" alt="alerts" src="https://github.com/user-attachments/assets/610aeccd-5f1f-465f-a631-f04973f07113" />
+<img width="1600" height="896" alt="those alertswarnings are completely normal at this step  👍 You’re doing the most critical change in the lab turning a standalone server into a Domain Controller  Below is a clear breakdown of eac" src="https://github.com/user-attachments/assets/fe9100a7-5d9c-4ea5-875e-68bcf5914d88" />
+
+
+## PART 3 1/3: Active Directory Core Tasks
+
 
 
 ## What I Learned
