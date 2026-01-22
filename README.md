@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="#Overview">Overview</a> •
-  <a href="#Environment Overview">Environment Overview</a> •
-  <a href="#Project Objectives">Project Objectives</a> •
-  <a href="#Steps Performed">Steps Performed</a> •
+  <a href="#Environment-Overview">Environment Overview</a> •
+  <a href="#Project-Objectives">Project Objectives</a> •
+  <a href="#Steps-Performed">Steps Performed</a> •
   <a href="#Screenshots">Screenshots</a> •
 </p>
 
