@@ -18,18 +18,21 @@ The lab mirrors real-world IT infrastructure practices commonly used in corporat
 
 This is an entry-level Active Directory home lab built using Windows Server 2022. The Windows Server 2022 ISO was used for both the Domain Controller and the client machine due to available resources. The client system was configured as a domain member to validate authentication, DNS functionality, and Group Policy enforcement. A Windows 10 ISO is recommended for those following along 
 
-## Tools & Technologies
-- Windows Server 2022 ISO [link](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)       
-- Oracle VirtualBox
-- Active Directory Domain Services (AD DS)
-- DNS
-- Group Policy Management
+## Environment Overview
+--Host OS: Windows 10 / Windows 11
+--Hypervisor: Oracle VirtualBox (Free)
+--Server OS: Windows Server 2022 (Desktop Experience)
+--Client OS: Windows Server 2022 (used as client due to availability)
+--Domain Name: homelab.local
 
-## Objectives
--- Install and configure Active Directory
-- Create and manage users
-- Perform password resets
-- Apply Group Policy Objects (GPOs)
+## Project Objectives
+
+--Understand how Active Directory works in a corporate environment
+--Configure a Domain Controller (AD DS + DNS)
+--Create Organizational Units (OUs) and user accounts
+--Apply and enforce Group Policy Objects (GPOs)
+--Join a client machine to a domain
+--Validate centralized authentication and policy enforcement
 
 ## Steps Performed
 1. Virtualization Setup
@@ -177,7 +180,7 @@ Right-click user<br>
 <img width="1914" height="1015" alt="reset-user-psswd1" src="https://github.com/user-attachments/assets/2533416d-a0bf-448f-a3bd-be55af1479a9" />
 <img width="1923" height="1028" alt="reset-user-psswd2" src="https://github.com/user-attachments/assets/7712d040-9de9-4237-ba0f-d0091ef2f5f4" />
 
-## Part 4 1/3 Group Policy (GPO)
+## Part 4 1/3: Group Policy (GPO)
 Create GPO<br>
 &emsp;&emsp;Open Group Policy Management<br>
 &emsp;&emsp;Right-click domain → Create GPO<br>
@@ -189,6 +192,35 @@ Create GPO<br>
 &emsp;&emsp;The new GPO should now appear under the domain in Group Policy Objects and be linked to the domain.
 
 <img width="1920" height="1038" alt="verify-GPO" src="https://github.com/user-attachments/assets/f9929872-c303-4186-9daa-603517f431e0" />
+
+## Part 4 2/3: Enable the Policy: Edit GPO
+Navigate:<br>
+&emsp;&emsp;User Configuration<br>
+&emsp;&emsp;Administrative Templates<br>
+&emsp;&emsp;Control Panel<br>
+Enable:<br>
+&emsp;&emsp;Prohibit access to Control Panel
+
+<img width="1931" height="1030" alt="nav-GPO" src="https://github.com/user-attachments/assets/8b850917-6918-4a22-95f4-c170bd424cea" />
+<img width="1931" height="1001" alt="enable-GPO-policy" src="https://github.com/user-attachments/assets/f88d4f81-77d1-4766-bc4e-34e4ff3d58a4" />
+
+## Part 4 3/3: Link GPO to OU
+Link GPO to IT_Users OU
+<img width="1920" height="1017" alt="link-ou-to-gpo1" src="https://github.com/user-attachments/assets/0ef6f606-6c21-4da4-bc8f-a624db833466" />
+<img width="3840" height="1080" alt="link-ou-to-gpo2" src="https://github.com/user-attachments/assets/5eab635e-c1cd-4cfe-b0d9-7a53321378f1" />
+
+## Part 5 1/2: Client Machine (Proof It Works)
+Create new VM:<br>
+Name: Client01<br>
+Install Windows Server 2022<br>
+Set DNS to:<br>
+&emsp;&emsp;192.168.56.10<br>
+Join domain:<br>
+&emsp;&emsp;homelab.local<br>
+Restart
+<img width="1929" height="1028" alt="create-client01" src="https://github.com/user-attachments/assets/e7f11a7e-376f-4559-95d2-031415526328" />
+
+
 
 
 ## What I Learned
