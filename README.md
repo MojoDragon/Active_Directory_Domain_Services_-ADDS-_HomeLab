@@ -30,7 +30,7 @@ This is an entry-level Active Directory home lab built using Windows Server 2022
 --Client OS: Windows Server 2022 (used as client due to availability)<br>
 --Domain Name: homelab.local<br>
 
-p align="right"><a href="#top">⬆ Back to top</a></p>
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ## Project Objectives
 
@@ -51,7 +51,7 @@ p align="right"><a href="#top">⬆ Back to top</a></p>
 5. Created and applied Group Policies
 6. Tested policies on a domain-joined client machine<br>
 
-p align="right"><a href="#top">⬆ Back to top</a></p>
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ## Screenshots
 
