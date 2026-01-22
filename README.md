@@ -14,7 +14,7 @@
 </p>
 
   
-## <a id="Overview">Overview</a>
+## Overview
 This project simulates a small enterprise Active Directory environment, demonstrating how users authenticate against a Domain Controller and how Group Policy Objects (GPOs) are centrally managed and enforced on domain-joined client machines.
 
 The lab mirrors real-world IT infrastructure practices commonly used in corporate environments and highlights core identity and access management concepts.
