@@ -1,4 +1,4 @@
-<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba7d9576-9932-41d0-a7bc-306809fc0149" />
+
 <img width="1600" height="896" alt="Active Directory Domain Services" src="https://github.com/user-attachments/assets/6679af25-0359-42f1-9517-92f6958c3035" />
 
 **Table of Contents**
