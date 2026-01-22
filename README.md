@@ -3,7 +3,7 @@
 
 **Table of Contents**
 
-[Overview](#overview-section) | [Features](#features-section) | [Installation](#installation-section) | [Usage](#usage-section) | [Contributing](#contributing-section)
+[Overview](#overview-section) | [Environment Overview](#environment-overview-section) | [Project Objectives](#project-objectives-section) | [Steps Performed](#steps-performed) | [Screenshots](#sceenshots-section)
 
   
 ## ## <a id="overview-section">Overview</a>
@@ -36,10 +36,6 @@ This is an entry-level Active Directory home lab built using Windows Server 2022
 4. Reset user passwords and unlocked accounts
 5. Created and applied Group Policies
 6. Tested policies on a domain-joined client machin
-
-## Troubleshooting
-- Resolved DNS issues by correcting adapter settings
-- Fixed login errors by verifying group policies
 
 ## Screenshots
 
