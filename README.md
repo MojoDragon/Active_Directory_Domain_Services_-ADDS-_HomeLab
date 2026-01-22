@@ -132,7 +132,9 @@ Configure:<br>
 ## Promote this server to a domain controller
 
 <img width="1600" height="896" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/4e119855-890c-4ab2-96d7-6173856408eb" />
-## Choose: <br>
+
+## Choose:
+
 &emsp;&emsp;New forest <br>
 &emsp;&emsp;Root Domain name: homelab.local<br>
 &emsp;&emsp;Complete promotion and restart<br>
