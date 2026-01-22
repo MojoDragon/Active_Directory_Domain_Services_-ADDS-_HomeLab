@@ -184,8 +184,10 @@ Create GPO<br>
 &emsp;&emsp;Name: Disable_Control_Panel<br>
 
 <img width="1900" height="1038" alt="create-new-GPO1" src="https://github.com/user-attachments/assets/7c66c4a4-c083-44b5-b1c8-095d1c168f8f" />
-## Verify GPO Creation<br>
+
+## Verify GPO Creation 
 &emsp;&emsp;The new GPO should now appear under the domain in Group Policy Objects and be linked to the domain.
+
 <img width="1920" height="1038" alt="verify-GPO" src="https://github.com/user-attachments/assets/f9929872-c303-4186-9daa-603517f431e0" />
 
 
