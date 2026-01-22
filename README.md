@@ -19,19 +19,19 @@ The lab mirrors real-world IT infrastructure practices commonly used in corporat
 This is an entry-level Active Directory home lab built using Windows Server 2022. The Windows Server 2022 ISO was used for both the Domain Controller and the client machine due to available resources. The client system was configured as a domain member to validate authentication, DNS functionality, and Group Policy enforcement. A Windows 10 ISO is recommended for those following along 
 
 ## Environment Overview
---Host OS: Windows 10 / Windows 11
---Hypervisor: Oracle VirtualBox (Free)
---Server OS: Windows Server 2022 (Desktop Experience)
---Client OS: Windows Server 2022 (used as client due to availability)
---Domain Name: homelab.local
+--Host OS: Windows 10 / Windows 11 <br>
+--Hypervisor: Oracle VirtualBox (Free)<br>
+--Server OS: Windows Server 2022 (Desktop Experience)<br>
+--Client OS: Windows Server 2022 (used as client due to availability)<br>
+--Domain Name: homelab.local<br>
 
 ## Project Objectives
 
---Understand how Active Directory works in a corporate environment
---Configure a Domain Controller (AD DS + DNS)
---Create Organizational Units (OUs) and user accounts
---Apply and enforce Group Policy Objects (GPOs)
---Join a client machine to a domain
+--Understand how Active Directory works in a corporate environment<br>
+--Configure a Domain Controller (AD DS + DNS)<br>
+--Create Organizational Units (OUs) and user accounts<br>
+--Apply and enforce Group Policy Objects (GPOs)<br>
+--Join a client machine to a domain<br>
 --Validate centralized authentication and policy enforcement
 
 ## Steps Performed
