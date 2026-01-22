@@ -1,5 +1,5 @@
+<img width="1600" height="896" alt="C (1)" src="https://github.com/user-attachments/assets/61987ce5-ec68-4ba0-bdf1-ae62ab3eaa50" />
 
-<img width="1600" height="896" alt="Active Directory Domain Services" src="https://github.com/user-attachments/assets/6679af25-0359-42f1-9517-92f6958c3035" />
 
 **Table of Contents**
 
