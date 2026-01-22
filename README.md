@@ -148,7 +148,8 @@ Configure:<br>
 &emsp;&emsp;Root Domain name: homelab.local<br>
 &emsp;&emsp;Complete promotion and restart<br>
 
-<img width="1923" height="1051" alt="root-domain-name" src="https://github.com/user-attachments/assets/31739b3b-626d-4675-aa93-46965af33f6e" />
+<img width="1914" height="1024" alt="ADDS-deployment-config" src="https://github.com/user-attachments/assets/f8b0eefa-8f45-4a62-a148-d7ae930787cb" />
+
 
 ## Alerts:
 
