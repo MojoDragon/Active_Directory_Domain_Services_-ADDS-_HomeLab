@@ -41,7 +41,7 @@ This is an entry-level Active Directory home lab built using Windows Server 2022
 --Join a client machine to a domain<br>
 --Validate centralized authentication and policy enforcement<br>
 
-p align="right"><a href="#top">⬆ Back to top</a></p>
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ## Steps Performed
 1. Virtualization Setup
@@ -256,7 +256,7 @@ Confirm access denied
 
 <img width="1600" height="896" alt="C" src="https://github.com/user-attachments/assets/f826f3b1-5a0e-409c-a349-fc90608095e7" />
 
-
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 
 
 
