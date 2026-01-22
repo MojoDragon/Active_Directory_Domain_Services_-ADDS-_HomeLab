@@ -1,4 +1,4 @@
-
+<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba7d9576-9932-41d0-a7bc-306809fc0149" />
 <img width="1600" height="896" alt="Active Directory Domain Services" src="https://github.com/user-attachments/assets/6679af25-0359-42f1-9517-92f6958c3035" />
 
 **Table of Contents**
@@ -148,6 +148,27 @@ Configure:<br>
 
 
 ## PART 3 1/3: Active Directory Core Tasks
+
+Create Organizational Unit (OU)<br>
+&emsp;&emsp;Open Active Directory Users and Computers<br>
+&emsp;&emsp;Right-click domain → New → Organizational Unit<br>
+&emsp;&emsp;Name: IT_Users
+
+<img width="1911" height="1005" alt="AD-core-tasks1" src="https://github.com/user-attachments/assets/022291fe-a81d-4d4f-ac64-f53f0334891e" />
+<img width="1909" height="1030" alt="AD-core-tasks2" src="https://github.com/user-attachments/assets/6f88cb6b-0bcc-437d-a23a-0941e82a0c8b" />
+
+## Create Users
+Right-click IT_Users → New → User<br>
+Create users:<br>
+&emsp;&emsp;testuser<br>
+Set:<br>
+&emsp;&emsp;Initial password<br>
+&emsp;&emsp;Require password change at next login
+
+<img width="1936" height="1038" alt="testuser-input" src="https://github.com/user-attachments/assets/bf172374-e2d9-4093-ad43-a932ca5d0ceb" />
+<img width="1914" height="1017" alt="testuser-password" src="https://github.com/user-attachments/assets/b827adb3-1858-44d3-9b0b-36c3f46fe7b0" />
+<img width="1906" height="1035" alt="tester-finished" src="https://github.com/user-attachments/assets/aace4d21-9fdf-48a5-b608-89ef70be0630" />
+
 
 
 
