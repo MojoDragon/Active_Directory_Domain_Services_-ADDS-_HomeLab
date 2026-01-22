@@ -3,13 +3,14 @@
 
 **Table of Contents**
 
+<a id="top"></a>
+
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#license">License</a>
+  <a href="#Environment Overview">Environment Overview</a> •
+  <a href="#Project Objectives">Project Objectives</a> •
+  <a href="#Steps Performed">Steps Performed</a> •
+  <a href="#Screenshots">Screenshots</a> •
 </p>
 
   
@@ -29,6 +30,8 @@ This is an entry-level Active Directory home lab built using Windows Server 2022
 --Client OS: Windows Server 2022 (used as client due to availability)<br>
 --Domain Name: homelab.local<br>
 
+p align="right"><a href="#top">⬆ Back to top</a></p>
+
 ## Project Objectives
 
 --Understand how Active Directory works in a corporate environment<br>
@@ -36,7 +39,9 @@ This is an entry-level Active Directory home lab built using Windows Server 2022
 --Create Organizational Units (OUs) and user accounts<br>
 --Apply and enforce Group Policy Objects (GPOs)<br>
 --Join a client machine to a domain<br>
---Validate centralized authentication and policy enforcement
+--Validate centralized authentication and policy enforcement<br>
+
+p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ## Steps Performed
 1. Virtualization Setup
@@ -44,7 +49,9 @@ This is an entry-level Active Directory home lab built using Windows Server 2022
 3. Created Organizational Units and users
 4. Reset user passwords and unlocked accounts
 5. Created and applied Group Policies
-6. Tested policies on a domain-joined client machin
+6. Tested policies on a domain-joined client machine<br>
+
+p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ## Screenshots
 
