@@ -224,7 +224,6 @@ Set DNS to:<br>
 &emsp;&emsp;192.168.56.10<br>
 
 <img width="1929" height="1028" alt="create-client01" src="https://github.com/user-attachments/assets/e7f11a7e-376f-4559-95d2-031415526328" />
-<img width="1923" height="1046" alt="link-ou-to-gpo2" src="https://github.com/user-attachments/assets/c0cc7246-a232-4933-b22b-7ea378d51d0d" />
 
 ## Join Domain:
 Enter:<br>
@@ -234,17 +233,30 @@ Rename computer:<br>
 Select Member of Domain and Enter:<br>
 &emsp;&emsp;homelab.local<br>
 
+<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/c998781c-ef57-45f3-a778-13e1ef8f4846" />
+
+
+## Quick Note: Ping Checkers
+In the command prompt of Client01, ping the homelab.lab domain on the DCO1 server that was built.<br> 
+One issue I found is that if both VM's are not running, then this may not establish the necessary connection.
+
+## Example of a successful ping to the homelab.local
+
+<img width="1600" height="896" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/2b8d7053-ae84-4a71-a7fe-44cfd6d34529" />
+
+## Part 5 2/2: Validate Policy
+Log in as:<br>
+&emsp;&emsp;homelab\testuser<br>
+Attempt to open Control Panel<br>
+Confirm access denied
+
+<img width="1920" height="1028" alt="policy-applied" src="https://github.com/user-attachments/assets/e33ae29a-6f41-4ac7-879f-ebd27b41c51e" />
+
+## Congrats!!
+
+<img width="1600" height="896" alt="C" src="https://github.com/user-attachments/assets/f826f3b1-5a0e-409c-a349-fc90608095e7" />
 
 
 
 
 
-
-
-
-Restart
-
-
-## What I Learned
-- How Active Directory manages users and access
-- Importance of DNS in domain environments
