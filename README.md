@@ -108,7 +108,7 @@ Configure:<br>
 <img width="1929" height="1012" alt="static-ip-config" src="https://github.com/user-attachments/assets/7c749f8f-1bd6-4248-9477-91a39ddbb2bb" />
 
 ## Part 2 2/3: Rename Servers
-Open Server Manager<br>
+➡️ Open Server Manager<br>
 &emsp;&emsp;Local Server → Computer Name<br>
 &emsp;&emsp;Rename to: DC01<br>
 &emsp;&emsp;Restart
@@ -129,6 +129,7 @@ Open Server Manager<br>
 
 <img width="1909" height="1027" alt="ADDS-install" src="https://github.com/user-attachments/assets/e450e0b9-afa7-44f8-9300-889961859d9d" />
 
+## 
 
 ## What I Learned
 - How Active Directory manages users and access
