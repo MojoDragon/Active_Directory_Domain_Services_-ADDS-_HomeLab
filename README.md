@@ -222,13 +222,27 @@ Name: Client01<br>
 Install Windows Server 2022<br>
 Set DNS to:<br>
 &emsp;&emsp;192.168.56.10<br>
-Join domain:<br>
-&emsp;&emsp;homelab.local<br>
-Restart
+
 <img width="1929" height="1028" alt="create-client01" src="https://github.com/user-attachments/assets/e7f11a7e-376f-4559-95d2-031415526328" />
 <img width="1923" height="1046" alt="link-ou-to-gpo2" src="https://github.com/user-attachments/assets/c0cc7246-a232-4933-b22b-7ea378d51d0d" />
 
+## Join Domain:
+Enter:<br>
+&emsp;&emsp;System Properties->Change<br>
+Rename computer:<br>
+&emsp;&emsp;Client01<br>
+Select Member of Domain and Enter:<br>
+&emsp;&emsp;homelab.local<br>
 
+
+
+
+
+
+
+
+
+Restart
 
 
 ## What I Learned
