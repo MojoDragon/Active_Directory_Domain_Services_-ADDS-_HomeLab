@@ -129,7 +129,10 @@ Configure:<br>
 
 <img width="1909" height="1027" alt="ADDS-install" src="https://github.com/user-attachments/assets/e450e0b9-afa7-44f8-9300-889961859d9d" />
 
-## 
+## Promote this server to a domain controller
+
+<img width="1600" height="896" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/4e119855-890c-4ab2-96d7-6173856408eb" />
+
 
 ## What I Learned
 - How Active Directory manages users and access
