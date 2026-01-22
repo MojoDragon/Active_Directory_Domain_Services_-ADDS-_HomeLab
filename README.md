@@ -115,6 +115,14 @@ Open Server Manager<br>
 
 <img width="1917" height="1001" alt="computer-name" src="https://github.com/user-attachments/assets/0eaebfac-1904-4167-8542-4f3e4eed9994" />
 
+## Part 2 3/3: Install AD DS Role
+
+<img width="1600" height="896" alt="Why Choose Role-Based or Feature-Based Installation This option is used when Installing server roles (like Active Directory, DNS, DHCP) Installing features (like Group Policy Management) Configuri" src="https://github.com/user-attachments/assets/28ec9e81-e58f-492a-82ab-381dbbdd4612" />
+
+## Select Role-Based or feature-based installation
+
+<img width="1908" height="969" alt="role-based-or-remote-install" src="https://github.com/user-attachments/assets/af59caf1-b566-4af9-ab84-83610cd83b3d" />
+
 
 ## What I Learned
 - How Active Directory manages users and access
