@@ -175,8 +175,18 @@ Right-click user<br>
 &emsp;&emsp;Unlock account if needed <br>
 
 <img width="1914" height="1015" alt="reset-user-psswd1" src="https://github.com/user-attachments/assets/2533416d-a0bf-448f-a3bd-be55af1479a9" />
+<img width="1923" height="1028" alt="reset-user-psswd2" src="https://github.com/user-attachments/assets/7712d040-9de9-4237-ba0f-d0091ef2f5f4" />
 
+## Part 4 1/3 Group Policy (GPO)
+Create GPO<br>
+&emsp;&emsp;Open Group Policy Management<br>
+&emsp;&emsp;Right-click domain → Create GPO<br>
+&emsp;&emsp;Name: Disable_Control_Panel<br>
 
+<img width="1900" height="1038" alt="create-new-GPO1" src="https://github.com/user-attachments/assets/7c66c4a4-c083-44b5-b1c8-095d1c168f8f" />
+## Verify GPO Creation<br>
+&emsp;&emsp;The new GPO should now appear under the domain in Group Policy Objects and be linked to the domain.
+<img width="1920" height="1038" alt="verify-GPO" src="https://github.com/user-attachments/assets/f9929872-c303-4186-9daa-603517f431e0" />
 
 
 ## What I Learned
