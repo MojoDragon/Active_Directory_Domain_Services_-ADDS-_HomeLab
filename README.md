@@ -135,8 +135,7 @@ Configure:<br>
 
 ## Select Active Directory Domain Services, than go to installation
 
-<img width="1906" height="1025" alt="select-ADDS" src="https://github.com/user-attachments/assets/2a84e1bf-ef5b-4623-86f9-972655d8b487" />
-
+<img width="1600" height="896" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/d90e0d18-2a2a-4c87-9b0f-aec666052055" />
 <img width="1909" height="1027" alt="ADDS-install" src="https://github.com/user-attachments/assets/e450e0b9-afa7-44f8-9300-889961859d9d" />
 
 ## Promote this server to a domain controller
