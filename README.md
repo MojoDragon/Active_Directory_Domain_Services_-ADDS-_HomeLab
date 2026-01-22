@@ -1,17 +1,26 @@
 
 <img width="1600" height="896" alt="Active Directory Domain Services" src="https://github.com/user-attachments/assets/6679af25-0359-42f1-9517-92f6958c3035" />
 
-**<a id ="top"></a>Table of Contents**
+**Table of Contents**
 
-[Overview](#overview-section) | [Environment Overview](#environment-overview-section) | [Project Objectives](#project-objectives-section) | [Steps Performed](#steps-performed) | [Screenshots](#sceenshots-section)
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#license">License</a>
+</p>
 
   
-## ## <a id="overview-section"></a><a id="top">Overview</a>
+## Overview
 This project simulates a small enterprise Active Directory environment, demonstrating how users authenticate against a Domain Controller and how Group Policy Objects (GPOs) are centrally managed and enforced on domain-joined client machines.
 
 The lab mirrors real-world IT infrastructure practices commonly used in corporate environments and highlights core identity and access management concepts.
 
-This is an entry-level Active Directory home lab built using Windows Server 2022. The Windows Server 2022 ISO was used for both the Domain Controller and the client machine due to available resources. The client system was configured as a domain member to validate authentication, DNS functionality, and Group Policy enforcement. A Windows 10 ISO is recommended for those following along 
+This is an entry-level Active Directory home lab built using Windows Server 2022. The Windows Server 2022 ISO was used for both the Domain Controller and the client machine due to available resources. The client system was configured as a domain member to validate authentication, DNS functionality, and Group Policy enforcement. A Windows 10 ISO is recommended for those following along <br>
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ## Environment Overview
 --Host OS: Windows 10 / Windows 11 <br>
